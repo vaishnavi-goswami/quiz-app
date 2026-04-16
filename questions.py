@@ -15,13 +15,8 @@ questions = [
         "answer": "A"
     },
     {
-        "question": "Which is a programming language?",
-        "options": ["A. Python", "B. Car", "C. Table", "D. Chair"],
-        "answer": "A"
+        "question": "2 + 2 = ?",
+        "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+        "answer": "B"
     }
-{
-    "question": "2 + 2 = ?",
-    "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
-    "answer": "B"
-}
 ]
